@@ -1,0 +1,2574 @@
+Microsoft Windows [Versión 10.0.22621.1702]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\HP>ionix start
+"ionix" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\HP>ioni start
+"ioni" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\HP>ionic start
+? Use the app creation wizard? No
+
+Pick a framework!
+
+Please select the JavaScript framework to use for your new app. To bypass this prompt next time, supply a value for the
+--type option.
+
+? Framework: Angular
+
+Every great app needs a name!
+
+Please enter the full name of your app. You can change this at any time. To bypass this prompt next time, supply name,
+the first argument to ionic start.
+
+? Project name: Act_1
+
+Let's pick the perfect starter template!
+
+Starter templates are ready-to-go Ionic apps that come packed with everything you need to build your app. To bypass thisprompt next time, supply template, the second argument to ionic start.
+
+? Starter template: tabs
+? Would you like to build your app with NgModules or Standalone Components?
+ Standalone components are a new way to build with Angular that simplifies the way you build your app.
+ To learn more, visit the Angular docs:
+ https://angular.io/guide/standalone-components
+
+ NgModules
+√ Preparing directory .\Act_1 in 6.05ms
+√ Downloading and extracting tabs starter in 895.88ms
+> ionic integrations enable capacitor --quiet -- Act_1 io.ionic.starter
+> npm.cmd i --save -E @capacitor/core@latest
+npm WARN deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
+
+added 1205 packages, and audited 1206 packages in 2m
+
+180 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+> npm.cmd i -D -E @capacitor/cli@latest
+
+added 40 packages, and audited 1246 packages in 9s
+
+183 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+> npm.cmd i --save -E @capacitor/haptics @capacitor/app @capacitor/keyboard @capacitor/status-bar
+
+added 4 packages, and audited 1250 packages in 6s
+
+183 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+> capacitor.cmd init Act_1 io.ionic.starter --web-dir www
+√ Creating capacitor.config.ts in C:\Users\HP\Act_1 in 5.18ms
+[success] capacitor.config.ts created!
+
+Next steps:
+https://capacitorjs.com/docs/getting-started#where-to-go-next
+[OK] Integration capacitor added!
+
+Installing dependencies may take several minutes.
+
+  ──────────────────────────────────────────────────────────────────────
+
+      Ionic Enterprise, platform and solutions for teams by Ionic
+
+                  Powerful library of native APIs
+                 A supercharged platform for teams
+
+         Learn more: https://ion.link/enterprise
+
+  ──────────────────────────────────────────────────────────────────────
+
+
+> npm.cmd i
+
+up to date, audited 1250 packages in 4s
+
+183 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+Join the Ionic Community! 💙
+
+Connect with millions of developers on the Ionic Forum and get access to live events, news updates, and more.
+
+? Create free Ionic account? No
+
+Your Ionic app is ready! Follow these next steps:
+
+- Go to your new project: cd .\Act_1
+- Run ionic serve within the app directory to see your app in the browser
+- Run ionic capacitor add to add a native iOS or Android project using Capacitor
+- Generate your app icon and splash screens using cordova-res --skip-config --copy
+- Explore the Ionic docs for components, tutorials, and more: https://ion.link/docs
+- Building an enterprise app? Ionic has Enterprise Support and Features: https://ion.link/enterprise-edition
+
+C:\Users\HP>cd ionic
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\HP>cd dir
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\HP>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0EB8-F734
+
+ Directorio de C:\Users\HP
+
+15/05/2023  06:28 a. m.    <DIR>          .
+09/05/2023  08:53 a. m.    <DIR>          ..
+02/04/2023  09:35 a. m.    <DIR>          .android
+02/04/2023  02:11 a. m.    <DIR>          .gradle
+15/05/2023  06:28 a. m.    <DIR>          .ionic
+02/04/2023  02:12 a. m.    <DIR>          .m2
+01/04/2023  01:41 p. m.    <DIR>          .ms-ad
+14/05/2023  11:34 a. m.    <DIR>          .vscode
+14/05/2023  11:34 a. m.    <DIR>          .vscode-cli
+15/05/2023  06:31 a. m.    <DIR>          Act_1
+16/04/2023  11:56 p. m.    <DIR>          AndroidStudioProjects
+09/05/2023  08:57 a. m.    <DIR>          Contacts
+01/04/2023  07:50 p. m.    <DIR>          Documents
+14/05/2023  09:22 p. m.    <DIR>          Downloads
+09/05/2023  08:57 a. m.    <DIR>          Favorites
+09/05/2023  08:57 a. m.    <DIR>          Links
+09/05/2023  08:57 a. m.    <DIR>          Music
+15/05/2023  06:23 a. m.    <DIR>          OneDrive
+09/05/2023  08:57 a. m.    <DIR>          Saved Games
+09/05/2023  08:57 a. m.    <DIR>          Searches
+09/05/2023  08:57 a. m.    <DIR>          Videos
+               0 archivos              0 bytes
+              21 dirs  409,193,795,584 bytes libres
+
+C:\Users\HP>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0EB8-F734
+
+ Directorio de C:\Users\HP
+
+15/05/2023  06:31 a. m.    <DIR>          .
+09/05/2023  08:53 a. m.    <DIR>          ..
+02/04/2023  09:35 a. m.    <DIR>          .android
+02/04/2023  02:11 a. m.    <DIR>          .gradle
+15/05/2023  06:28 a. m.    <DIR>          .ionic
+02/04/2023  02:12 a. m.    <DIR>          .m2
+01/04/2023  01:41 p. m.    <DIR>          .ms-ad
+14/05/2023  11:34 a. m.    <DIR>          .vscode
+14/05/2023  11:34 a. m.    <DIR>          .vscode-cli
+16/04/2023  11:56 p. m.    <DIR>          AndroidStudioProjects
+09/05/2023  08:57 a. m.    <DIR>          Contacts
+01/04/2023  07:50 p. m.    <DIR>          Documents
+14/05/2023  09:22 p. m.    <DIR>          Downloads
+09/05/2023  08:57 a. m.    <DIR>          Favorites
+09/05/2023  08:57 a. m.    <DIR>          Links
+09/05/2023  08:57 a. m.    <DIR>          Music
+15/05/2023  06:23 a. m.    <DIR>          OneDrive
+09/05/2023  08:57 a. m.    <DIR>          Saved Games
+09/05/2023  08:57 a. m.    <DIR>          Searches
+09/05/2023  08:57 a. m.    <DIR>          Videos
+               0 archivos              0 bytes
+              20 dirs  409,193,259,008 bytes libres
+
+C:\Users\HP>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0EB8-F734
+
+ Directorio de C:\Users\HP
+
+15/05/2023  06:33 a. m.    <DIR>          .
+09/05/2023  08:53 a. m.    <DIR>          ..
+02/04/2023  09:35 a. m.    <DIR>          .android
+02/04/2023  02:11 a. m.    <DIR>          .gradle
+02/04/2023  02:12 a. m.    <DIR>          .m2
+01/04/2023  01:41 p. m.    <DIR>          .ms-ad
+14/05/2023  11:34 a. m.    <DIR>          .vscode
+14/05/2023  11:34 a. m.    <DIR>          .vscode-cli
+16/04/2023  11:56 p. m.    <DIR>          AndroidStudioProjects
+09/05/2023  08:57 a. m.    <DIR>          Contacts
+01/04/2023  07:50 p. m.    <DIR>          Documents
+14/05/2023  09:22 p. m.    <DIR>          Downloads
+09/05/2023  08:57 a. m.    <DIR>          Favorites
+09/05/2023  08:57 a. m.    <DIR>          Links
+09/05/2023  08:57 a. m.    <DIR>          Music
+15/05/2023  06:23 a. m.    <DIR>          OneDrive
+09/05/2023  08:57 a. m.    <DIR>          Saved Games
+09/05/2023  08:57 a. m.    <DIR>          Searches
+09/05/2023  08:57 a. m.    <DIR>          Videos
+               0 archivos              0 bytes
+              19 dirs  409,196,437,504 bytes libres
+
+C:\Users\HP>cd downloads
+
+C:\Users\HP\Downloads>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0EB8-F734
+
+ Directorio de C:\Users\HP\Downloads
+
+14/05/2023  09:22 p. m.    <DIR>          .
+15/05/2023  06:33 a. m.    <DIR>          ..
+28/03/2023  08:17 a. m.        11,142,073 00-JGA2023-asamblea-general-ordinaria-de-accionistas.zip
+22/03/2023  11:22 p. m.           847,321 1.pdf
+22/03/2023  11:35 p. m.         1,096,544 1_merged.docx
+22/03/2023  11:28 p. m.           965,276 1_merged.pdf
+22/03/2023  11:35 p. m.           710,832 1_merged_1.pdf
+22/03/2023  11:38 p. m.         1,185,891 1_merged_1_merged.docx
+22/03/2023  11:37 p. m.           949,273 1_merged_1_merged.pdf
+22/03/2023  11:22 p. m.           243,935 2.pdf
+29/03/2023  11:52 p. m.         1,236,368 24-03-2023.docx
+29/03/2023  11:45 p. m.           988,495 24-03-2023.pdf
+01/04/2023  01:35 p. m.    <DIR>          5CV51---Programaci-n-de-Dispositivos-M-viles-main
+19/03/2023  10:54 p. m.           237,443 5CV51---Programaci-n-de-Dispositivos-M-viles-main.zip
+13/04/2023  07:25 p. m.        10,587,571 5° FEB1 HABILIDADES DARUKEL PARTE 1 22-23.pdf
+29/03/2023  11:56 p. m.           408,987 66666.docx
+29/03/2023  11:45 p. m.           297,912 66666.pdf
+01/04/2023  07:34 p. m.       988,630,456 android-studio-2022.1.1.21-windows (1).exe
+19/03/2023  09:23 p. m.       988,630,456 android-studio-2022.1.1.21-windows.exe
+13/04/2023  10:31 p. m.           401,506 CFE.pdf
+19/03/2023  08:34 p. m.         1,427,176 ChromeSetup.exe
+13/04/2023  08:41 p. m.             5,551 cinema_st.zip
+13/04/2023  08:38 p. m.             6,774 cinerama.zip
+08/03/2023  12:14 p. m.            56,054 DAConfig.json
+08/03/2023  12:14 p. m.               139 DADataRetentionPolicy.json
+28/04/2023  08:58 a. m.           824,544 De la cruz_Amezcua_Alejandro Ivan_T4_P2.pdf
+16/04/2023  09:36 a. m.           565,762 Delfin_Zapiain_T1_P2.pdf
+13/04/2023  08:19 p. m.            90,578 disney_dreams.zip
+13/04/2023  08:22 p. m.           172,706 disney_family_1.zip
+13/04/2023  09:58 p. m.       161,464,320 EpicInstaller-14.6.2-c25fecf4da674c21b6d9f59145c6c4c7.msi
+20/04/2023  11:55 a. m.           108,544 formato-presentacion-documentos-normas-ieee.doc
+16/04/2023  09:36 a. m.           376,501 García_Jasso_Francisco_T1_P2.pdf
+16/04/2023  08:49 a. m.           744,024 Gomez_Gonzalez_Mauricio_T1P2.pdf
+13/04/2023  08:33 p. m.            47,014 grandes.zip
+12/05/2023  11:46 p. m.           779,164 house-rooms-and-furniture.pdf
+13/04/2023  10:02 p. m.           975,704 iLovePDF Desktop Installer.exe
+12/05/2023  11:44 p. m.    <DIR>          ilovepdf_extracted-pages
+12/05/2023  11:42 p. m.         1,420,721 ilovepdf_extracted-pages.zip
+15/05/2023  06:33 a. m.    <DIR>          ionic
+12/05/2023  11:46 p. m.         1,899,450 Martínez_Hernandez_Metztli_Itzel - Present simple forms of 'to be' – am_is_are.pdf
+13/05/2023  02:19 a. m.           374,835 Martínez_Hernandez_Metztli_Itzel - Tarea_Integradora.pdf
+13/05/2023  02:19 a. m.         2,165,231 Martínez_Hernandez_Metztli_Itzel - Tarea_Integradora.pptx
+13/05/2023  03:58 a. m.         7,574,445 Martínez_Hernandez_Metztli_Itzel - Tarea_Integradora_Audio.mp3
+26/03/2023  08:47 p. m.        83,660,856 McAfee_Installer_serial_zI7YWun8_k4_Hwn6YInXsw2_key_affid_1274_akey.exe
+14/05/2023  11:29 a. m.        31,539,200 node-v18.16.0-x64.msi
+12/05/2023  11:46 p. m.         5,803,003 parts-of-the-house.pdf
+12/05/2023  11:47 p. m.         1,572,320 prepositions of place.pdf
+12/05/2023  11:39 p. m.         1,937,713 Present simple forms of 'to be' – am_is_are – 1, 2, 3 and 4 – Test-English.pdf12/05/2023  11:24 p. m.      614,602 Present simple forms of 'to be' – am_is_are – Page 2 of 4 – Test-English.pdf
+12/05/2023  11:32 p. m.           458,036 Present simple forms of 'to be' – am_is_are – Page 3 of 4 – Test-English.pdf
+12/05/2023  11:37 p. m.           444,883 Present simple forms of 'to be' – am_is_are – Page 4 of 4 – Test-English.pdf
+12/05/2023  11:02 p. m.           431,794 Present simple forms of 'to be' – am_is_are – Test-English.pdf
+31/03/2023  11:43 p. m.           579,036 Primer Parcial de Redes y Simulación  Marzo 2023 (4) (1) (1).pdf
+16/04/2023  09:35 a. m.           529,414 PRÁCTICA  C7P1 22032023 EXPANSIÓN Y RUTA.pdf
+12/05/2023  11:47 p. m.           278,557 READING Básico Introductorio.pdf
+09/05/2023  07:55 a. m.       448,170,751 Reunión en _General_-20230426_131258-Grabación de la reunión.mp4
+16/04/2023  10:08 p. m.         3,465,485 S3. Activities, Fragments e Intents.pptx
+01/04/2023  01:35 p. m.    <DIR>          Scripts
+26/03/2023  08:46 p. m.            90,069 Software antivirus e Internet Security para su PC _ McAfee.pdf
+12/05/2023  11:49 p. m.           634,307 Tarea integradora Example Basic introductorio.pdf
+14/05/2023  11:29 a. m.        92,718,208 VSCodeUserSetup-x64-1.78.2.exe
+13/04/2023  08:20 p. m.             8,404 walter.zip
+13/04/2023  08:20 p. m.            66,934 waltograph.zip
+13/05/2023  03:51 a. m.           545,822 WhatsApp Ptt 2023-05-13 at 3.51.01 AM.ogg
+20/03/2023  08:43 a. m.         3,685,944 winrar-x64-621es.exe
+13/04/2023  08:20 p. m.            21,551 winter_is_coming.zip
+              60 archivos  2,866,896,465 bytes
+               6 dirs  409,196,371,968 bytes libres
+
+C:\Users\HP\Downloads>cd ionic
+
+C:\Users\HP\Downloads\ionic>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: 0EB8-F734
+
+ Directorio de C:\Users\HP\Downloads\ionic
+
+15/05/2023  06:33 a. m.    <DIR>          .
+14/05/2023  09:22 p. m.    <DIR>          ..
+15/05/2023  06:28 a. m.    <DIR>          .ionic
+15/05/2023  06:31 a. m.    <DIR>          Act_1
+               0 archivos              0 bytes
+               4 dirs  409,196,224,512 bytes libres
+
+C:\Users\HP\Downloads\ionic>cd act_1
+
+C:\Users\HP\Downloads\ionic\Act_1>ionic server
+[ERROR] Unable to find command: server
+
+
+   _             _
+  (_) ___  _ __ (_) ___
+  | |/ _ \| '_ \| |/ __|
+  | | (_) | | | | | (__
+  |_|\___/|_| |_|_|\___| CLI 7.1.1
+
+
+  Usage:
+
+    $ ionic <command> [<args>] [--help] [--verbose] [--quiet] [--no-interactive] [--no-color] [--confirm] [options]
+
+  Global Commands:
+
+    completion ...................... (experimental) Enables tab-completion for Ionic CLI commands.
+    config <subcommand> ............. Manage CLI and project config values (subcommands: get, set, unset)
+    info ............................ Print project, system, and environment information
+    init ............................ (beta) Initialize existing projects with Ionic
+    live-update <subcommand> ........ (paid) Ionic Live Updates functionality (subcommands: manifest)
+    login ........................... Log in to Ionic
+    logout .......................... Log out of Ionic
+    signup .......................... Create an Ionic account
+    ssh <subcommand> ................ Commands for configuring SSH keys (subcommands: add, delete, generate, list,
+                                      setup, use)
+    start ........................... Create a new project
+
+  Project Commands:
+
+    build ........................... Build web assets and prepare your app for any platform targets
+    capacitor <subcommand> .......... Capacitor functionality (subcommands: add, build, copy, open, run, sync, update)
+                                      (alias: cap)
+    cordova <subcommand> ............ Cordova functionality (subcommands: build, compile, emulate, platform, plugin,
+                                      prepare, requirements, resources, run) (alias: cdv)
+    enterprise <subcommand> ......... (paid) Manage Ionic Enterprise features (subcommands: register)
+    generate ........................ Create Pages, Components, & Angular Features (alias: g)
+    git <subcommand> ................ (paid) Commands relating to managing Appflow git (subcommands: remote)
+    integrations <subcommand> ....... Manage various integrations in your app (subcommands: disable, enable, list)
+                                      (aliases: i, integration)
+    link ............................ (paid) Connect local apps to Ionic
+    live-update <subcommand> ........ (paid) Ionic Live Updates functionality (subcommands: add, configure)
+    repair .......................... Remove and recreate dependencies and generated files
+    serve ........................... Start a local dev server for app dev/testing (alias: s)
+    ssl <subcommand> ................ (experimental) Commands for managing SSL keys & certificates (subcommands:
+                                      generate)
+
+
+C:\Users\HP\Downloads\ionic\Act_1>ionic serve
+> ng.cmd run app:serve --host=localhost --port=8100
+[ng] - Generating browser application bundles (phase: setup)...
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files                                                                                     | Names
+               |  Raw Size
+[ng] vendor.js                                                                                               | vendor
+               |   3.18 MB |
+[ng] polyfills.js                                                                                            | polyfills               | 332.52 kB |
+[ng] styles.css, styles.js                                                                                   | styles
+               | 273.71 kB |
+[ng] main.js                                                                                                 | main
+               |  14.52 kB |
+[ng] runtime.js                                                                                              | runtime
+               |  14.10 kB |
+[ng]
+[ng]                                                                                                         | Initial Total           |   3.80 MB
+[ng]
+[ng] Lazy Chunk Files                                                                                        | Names
+               |  Raw Size
+[ng] polyfills-core-js.js                                                                                    | polyfills-core-js       | 152.18 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-datetime_3_entry_js.js                                             | -
+               | 136.09 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-item_8_entry_js.js                                                 | -
+               |  90.31 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-modal_entry_js.js                                                  | -
+               |  79.17 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-app_8_entry_js.js                                                  | -
+               |  78.00 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-select_3_entry_js.js                                               | -
+               |  64.67 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-textarea_entry_js.js                                               | -
+               |  63.25 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-input_entry_js.js                                                  | -
+               |  61.81 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-popover_entry_js.js                                                | -
+               |  60.41 kB |
+[ng] default-node_modules_ionic_core_dist_esm_data-b8307d99_js-node_modules_ionic_core_dist_esm_th-33339e.js | -
+               |  54.32 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-alert_entry_js.js                                                  | -
+               |  54.19 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-refresher_2_entry_js.js                                            | -
+               |  51.66 kB |
+[ng] common.js                                                                                               | common
+               |  49.99 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-range_entry_js.js                                                  | -
+               |  46.06 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-menu_3_entry_js.js                                                 | -
+               |  43.33 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-segment_2_entry_js.js                                              | -
+               |  41.67 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-searchbar_entry_js.js                                              | -
+               |  37.92 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-button_2_entry_js.js                                               | -
+               |  37.41 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-nav_2_entry_js.js                                                  | -
+               |  35.84 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-item-option_3_entry_js.js                                          | -
+               |  35.27 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-route_4_entry_js.js                                                | -
+               |  34.26 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-action-sheet_entry_js.js                                           | -
+               |  33.65 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-toggle_entry_js.js                                                 | -
+               |  30.68 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-toast_entry_js.js                                                  | -
+               |  30.57 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-radio_2_entry_js.js                                                | -
+               |  28.94 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-fab_3_entry_js.js                                                  | -
+               |  28.33 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-tab-bar_2_entry_js.js                                              | -
+               |  28.26 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-accordion_2_entry_js.js                                            | -
+               |  27.53 kB |
+[ng] polyfills-dom.js                                                                                        | polyfills-dom           |  26.61 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-progress-bar_entry_js.js                                           | -
+               |  23.97 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-picker-internal_entry_js.js                                        | -
+               |  23.78 kB |
+[ng] node_modules_ionic_core_dist_esm_input-shims-7f8c777d_js.js                                             | input-shims-7f8c777d-js |  23.04 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-breadcrumb_2_entry_js.js                                           | -
+               |  22.98 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-checkbox_entry_js.js                                               | -
+               |  22.30 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-loading_entry_js.js                                                | -
+               |  20.14 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-picker-column-internal_entry_js.js                                 | -
+               |  19.83 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-datetime-button_entry_js.js                                        | -
+               |  18.02 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-back-button_entry_js.js                                            | -
+               |  17.78 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-card_5_entry_js.js                                                 | -
+               |  17.25 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-reorder_2_entry_js.js                                              | -
+               |  13.45 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-infinite-scroll_2_entry_js.js                                      | -
+               |  13.37 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-col_3_entry_js.js                                                  | -
+               |  13.26 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-spinner_entry_js.js                                                | -
+               |  10.89 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-tab_2_entry_js.js                                                  | -
+               |  10.19 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-split-pane_entry_js.js                                             | -
+               |   9.03 kB |
+[ng] src_app_tabs_tabs_module_ts.js                                                                          | tabs-tabs-module        |   7.94 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-avatar_3_entry_js.js                                               | -
+               |   7.83 kB |
+[ng] src_app_tab1_tab1_module_ts.js                                                                          | tab1-tab1-module        |   7.36 kB |
+[ng] src_app_tab3_tab3_module_ts.js                                                                          | tab3-tab3-module        |   7.36 kB |
+[ng] src_app_tab2_tab2_module_ts.js                                                                          | tab2-tab2-module        |   7.36 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-chip_entry_js.js                                                   | -
+               |   7.23 kB |
+[ng] node_modules_ionic_core_dist_esm_index-f4521aba_js.js                                                   | index-f4521aba-js       |   6.34 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-ripple-effect_entry_js.js                                          | -
+               |   6.22 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-img_entry_js.js                                                    | -
+               |   4.63 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-text_entry_js.js                                                   | -
+               |   4.17 kB |
+[ng] node_modules_ionic_core_dist_esm_ion-backdrop_entry_js.js                                               | -
+               |   3.24 kB |
+[ng] node_modules_ionic_core_dist_esm_status-tap-e23e860e_js.js                                              | status-tap-e23e860e-js  |   2.88 kB |
+[ng]
+[ng] Build at: 2023-05-15T12:35:37.690Z - Hash: a655e7d07a7325d6 - Time: 35900ms
+[ng] √ Compiled successfully.
+
+[INFO] Development server running!
+
+       Local: http://localhost:8100
+
+       Use Ctrl+C to quit this process
+
+[INFO] Browser window opened to http://localhost:8100!
+
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   |  Raw Size
+[ng] vendor.js           | vendor  | 225.01 kB |
+[ng] runtime.js          | runtime |   6.50 kB |
+[ng] main.js             | main    |   5.22 kB |
+[ng]
+[ng] 2 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:06.243Z - Hash: b8c4341a767fff45 - Time: 784ms
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unexpected token, expected "{" (3:7)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | import ;
+[ng]     |        ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:5:1 - error TS1109: Expression expected.
+[ng]
+[ng] 5 import { AppModule } from './app/app.module';
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] 5 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:08.868Z - Hash: b8c4341a767fff45 - Time: 630ms
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unexpected token, expected "{" (3:7)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | import ;
+[ng]     |        ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:5:1 - error TS1109: Expression expected.
+[ng]
+[ng] 5 import { AppModule } from './app/app.module';
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] vendor.js           | vendor  |  3.18 MB |
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 59 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:14.050Z - Hash: 4a98531d8de8180e - Time: 4020ms
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import []
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.53 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:15.332Z - Hash: 0782c19a87ce2d17 - Time: 601ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from ]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from ]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   |  Raw Size
+[ng] vendor.js           | vendor  | 225.01 kB |
+[ng] main.js             | main    |   7.49 kB |
+[ng] runtime.js          | runtime |   6.50 kB |
+[ng]
+[ng] 2 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:20.700Z - Hash: 03dfb917e116997c - Time: 524ms
+[ng] × Failed to compile.
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unexpected token (3:8)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | [from,  in ];
+[ng]     |         ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from @in]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from @in]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from @in]
+[ng]                ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:15 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import [from @in]
+[ng]                 ~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:17 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import [from @in]
+[ng]                   ~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] vendor.js           | vendor  |  3.18 MB |
+[ng] main.js             | main    | 14.53 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 59 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:23.588Z - Hash: eb5827baf361c1f0 - Time: 1085ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from @ionic ]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from @ionic ]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from @ionic ]
+[ng]                ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:20 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import [from @ionic ]
+[ng]
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   |  Raw Size
+[ng] vendor.js           | vendor  | 225.01 kB |
+[ng] main.js             | main    |   7.51 kB |
+[ng] runtime.js          | runtime |   6.50 kB |
+[ng]
+[ng] 2 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:28.262Z - Hash: e57218f5fb00044c - Time: 451ms
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unterminated regular expression. (3:9)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | [from,  / pwa];
+[ng]     |          ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from @ionic/pwa]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from @ionic/pwa]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from @ionic/pwa]
+[ng]                ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:20 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import [from @ionic/pwa]
+[ng]
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:21 - error TS2304: Cannot find name 'pwa'.
+[ng]
+[ng] 3 import [from @ionic/pwa]
+[ng]                       ~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime |  6.50 kB |
+[ng]
+[ng] 4 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:37.225Z - Hash: b4b127ada82f0228 - Time: 372ms
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unterminated regular expression. (3:9)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | [from,  / pwa - element];
+[ng]     |          ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-element]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from @ionic/pwa-element]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-element]
+[ng]                ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:20 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-element]
+[ng]
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:21 - error TS2304: Cannot find name 'pwa'.
+[ng]
+[ng] 3 import [from @ionic/pwa-element]
+[ng]                       ~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:25 - error TS2552: Cannot find name 'element'. Did you mean 'Element'?
+[ng]
+[ng] 3 import [from @ionic/pwa-element]
+[ng]                           ~~~~~~~
+[ng]
+[ng]   node_modules/typescript/lib/lib.dom.d.ts:5156:13
+[ng]     5156 declare var Element: {
+[ng]                      ~~~~~~~
+[ng]     'Element' is declared here.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime |  6.50 kB |
+[ng]
+[ng] 4 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:39.252Z - Hash: 583c15a66669302a - Time: 332ms
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unterminated regular expression. (3:9)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | [from,  / pwa - elements];
+[ng]     |          ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements ]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements ]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements ]
+[ng]                ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:20 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements ]
+[ng]
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:21 - error TS2304: Cannot find name 'pwa'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements ]
+[ng]                       ~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:25 - error TS2552: Cannot find name 'elements'. Did you mean 'Element'?
+[ng]
+[ng] 3 import [from @ionic/pwa-elements ]
+[ng]                           ~~~~~~~~
+[ng]
+[ng]   node_modules/typescript/lib/lib.dom.d.ts:5156:13
+[ng]     5156 declare var Element: {
+[ng]                      ~~~~~~~
+[ng]     'Element' is declared here.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime |  6.50 kB |
+[ng]
+[ng] 4 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:47.092Z - Hash: f88400bed435f291 - Time: 340ms
+[ng] × Failed to compile.
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unexpected token, expected "," (3:27)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | [from,  / pwa - elements / loaders];
+[ng]     |                            ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loaders]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loaders]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loaders]
+[ng]                ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:20 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loaders]
+[ng]
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:21 - error TS2304: Cannot find name 'pwa'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loaders]
+[ng]                       ~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:25 - error TS2552: Cannot find name 'elements'. Did you mean 'Element'?
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loaders]
+[ng]                           ~~~~~~~~
+[ng]
+[ng]   node_modules/typescript/lib/lib.dom.d.ts:5156:13
+[ng]     5156 declare var Element: {
+[ng]                      ~~~~~~~
+[ng]     'Element' is declared here.
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:34 - error TS2304: Cannot find name 'loaders'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loaders]
+[ng]                                    ~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime |  6.50 kB |
+[ng]
+[ng] 4 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:50.389Z - Hash: df66ca1e86351eb3 - Time: 314ms
+[ng] × Failed to compile.
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unexpected token, expected "," (3:27)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | [from,  / pwa - elements / loader];
+[ng]     |                            ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader]
+[ng]                ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:20 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader]
+[ng]
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:21 - error TS2304: Cannot find name 'pwa'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader]
+[ng]                       ~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:25 - error TS2552: Cannot find name 'elements'. Did you mean 'Element'?
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader]
+[ng]                           ~~~~~~~~
+[ng]
+[ng]   node_modules/typescript/lib/lib.dom.d.ts:5156:13
+[ng]     5156 declare var Element: {
+[ng]                      ~~~~~~~
+[ng]     'Element' is declared here.
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:34 - error TS2304: Cannot find name 'loader'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader]
+[ng]                                    ~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime |  6.50 kB |
+[ng]
+[ng] 4 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:54.041Z - Hash: 6bdaca539e91beda - Time: 305ms
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unexpected token, expected "," (3:27)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | [from,  / pwa - elements / loader, "]];
+[ng]     |                            ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader"]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader"]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader"]
+[ng]                ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:20 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader"]
+[ng]
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:21 - error TS2304: Cannot find name 'pwa'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader"]
+[ng]                       ~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:25 - error TS2552: Cannot find name 'elements'. Did you mean 'Element'?
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader"]
+[ng]                           ~~~~~~~~
+[ng]
+[ng]   node_modules/typescript/lib/lib.dom.d.ts:5156:13
+[ng]     5156 declare var Element: {
+[ng]                      ~~~~~~~
+[ng]     'Element' is declared here.
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:34 - error TS2304: Cannot find name 'loader'.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader"]
+[ng]                                    ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:40 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader"]
+[ng]                                          ~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:42 - error TS1002: Unterminated string literal.
+[ng]
+[ng] 3 import [from @ionic/pwa-elements/loader"]
+[ng]
+[ng]
+[ng]
+[ng] Error: src/main.ts:5:1 - error TS1005: ',' expected.
+[ng]
+[ng] 5 import { AppModule } from './app/app.module';
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] vendor.js           | vendor  |  3.18 MB |
+[ng] main.js             | main    | 14.56 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 59 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:47:57.786Z - Hash: ddb08f48958bcf5d - Time: 966ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from "@ionic/pwa-elements/loader"]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from "@ionic/pwa-elements/loader"]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from "@ionic/pwa-elements/loader"]
+[ng]                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.56 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:04.907Z - Hash: 8744a977d53f5430 - Time: 455ms
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [(from "@ionic/pwa-elements/loader"]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:10 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [(from "@ionic/pwa-elements/loader"]
+[ng]            ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:15 - error TS1005: ')' expected.
+[ng]
+[ng] 3 import [(from "@ionic/pwa-elements/loader"]
+[ng]                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.56 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:10.358Z - Hash: 644cd6681131938b - Time: 562ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [from "@ionic/pwa-elements/loader"]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [from "@ionic/pwa-elements/loader"]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:14 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [from "@ionic/pwa-elements/loader"]
+[ng]                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.56 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:13.712Z - Hash: f62974cda05854cd - Time: 577ms
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import [}from "@ionic/pwa-elements/loader"]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS1137: Expression or comma expected.
+[ng]
+[ng] 3 import [}from "@ionic/pwa-elements/loader"]
+[ng]           ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:10 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import [}from "@ionic/pwa-elements/loader"]
+[ng]            ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:15 - error TS1005: ',' expected.
+[ng]
+[ng] 3 import [}from "@ionic/pwa-elements/loader"]
+[ng]                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.56 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:16.246Z - Hash: a1d0207be051d355 - Time: 470ms
+[ng]
+[ng] Error: src/main.ts:3:1 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import }from "@ionic/pwa-elements/loader"]
+[ng]   ~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:8 - error TS1128: Declaration or statement expected.
+[ng]
+[ng] 3 import }from "@ionic/pwa-elements/loader"]
+[ng]          ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS1434: Unexpected keyword or identifier.
+[ng]
+[ng] 3 import }from "@ionic/pwa-elements/loader"]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:9 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import }from "@ionic/pwa-elements/loader"]
+[ng]           ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:42 - error TS1005: ';' expected.
+[ng]
+[ng] 3 import }from "@ionic/pwa-elements/loader"]
+[ng]                                            ~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.56 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:18.292Z - Hash: 4cfb403a08b1fa92 - Time: 501ms
+[ng]
+[ng] Error: src/main.ts:3:10 - error TS1005: 'from' expected.
+[ng]
+[ng] 3 import {}}from "@ionic/pwa-elements/loader"]
+[ng]            ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:11 - error TS1434: Unexpected keyword or identifier.
+[ng]
+[ng] 3 import {}}from "@ionic/pwa-elements/loader"]
+[ng]             ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:11 - error TS2304: Cannot find name 'from'.
+[ng]
+[ng] 3 import {}}from "@ionic/pwa-elements/loader"]
+[ng]             ~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:44 - error TS1005: ';' expected.
+[ng]
+[ng] 3 import {}}from "@ionic/pwa-elements/loader"]
+[ng]                                              ~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:20.482Z - Hash: 8642f941ff7d5c5e - Time: 668ms
+[ng]
+[ng] Error: src/main.ts:3:15 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import {}from "@ionic/pwa-elements/loader"]
+[ng]                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:43 - error TS1005: ';' expected.
+[ng]
+[ng] 3 import {}from "@ionic/pwa-elements/loader"]
+[ng]                                             ~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:27.556Z - Hash: 349c64d49d2b7672 - Time: 498ms
+[ng]
+[ng] Error: src/main.ts:3:15 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import {}from "@ionic/pwa-elements/loader"
+[ng]                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:37.071Z - Hash: 4487b5883e21a29a - Time: 539ms
+[ng]
+[ng] Error: src/main.ts:3:21 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import {define}from "@ionic/pwa-elements/loader"
+[ng]                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:44.803Z - Hash: 200769efc339d96d - Time: 415ms
+[ng]
+[ng] Error: src/main.ts:3:27 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import {defineCustom}from "@ionic/pwa-elements/loader"
+[ng]                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:48.606Z - Hash: 450e6e16997986d2 - Time: 412ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/main.ts:3:35 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import {defineCustomElements}from "@ionic/pwa-elements/loader"
+[ng]                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:48:54.369Z - Hash: 3bf8e076c0e29767 - Time: 679ms
+[ng]
+[ng] Error: src/main.ts:3:36 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import {defineCustomElements} from "@ionic/pwa-elements/loader"
+[ng]                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:49:02.257Z - Hash: cf5bb9a24d9edcdf - Time: 477ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/main.ts:3:37 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import {defineCustomElements } from "@ionic/pwa-elements/loader"
+[ng]                                       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:49:08.168Z - Hash: 695543de29ffb684 - Time: 378ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/main.ts:3:38 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import { defineCustomElements } from "@ionic/pwa-elements/loader"
+[ng]                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   |  Raw Size
+[ng] vendor.js           | vendor  | 225.01 kB |
+[ng] runtime.js          | runtime |   6.50 kB |
+[ng] main.js             | main    |   5.87 kB |
+[ng]
+[ng] 2 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:49:52.470Z - Hash: 47924906e82b340a - Time: 482ms
+[ng]
+[ng] ./src/main.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js):
+[ng] SyntaxError: C:\Users\HP\Downloads\ionic\Act_1\src\main.ts: Unterminated string constant. (3:0)
+[ng]
+[ng]   1 | import * as __NgCli_bootstrap_1 from "@angular/platform-browser";
+[ng]   2 | import { enableProdMode } from '@angular/core';
+[ng] > 3 | ";
+[ng]     | ^
+[ng]   4 | import { AppModule } from './app/app.module';
+[ng]   5 | import { environment } from './environments/environment';
+[ng]   6 | if (environment.production) {
+[ng]
+[ng] Error: src/main.ts:3:38 - error TS1141: String literal expected.
+[ng]
+[ng] 3 import { defineCustomElements } from @ionic/pwa-elements/loader"
+[ng]                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:44 - error TS1109: Expression expected.
+[ng]
+[ng] 3 import { defineCustomElements } from @ionic/pwa-elements/loader"
+[ng]
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:64 - error TS1005: ';' expected.
+[ng]
+[ng] 3 import { defineCustomElements } from @ionic/pwa-elements/loader"
+[ng]                                                                  ~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:65 - error TS1002: Unterminated string literal.
+[ng]
+[ng] 3 import { defineCustomElements } from @ionic/pwa-elements/loader"
+[ng]
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] vendor.js           | vendor  |  3.18 MB |
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 59 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:50:01.677Z - Hash: e1df11b2262dabe4 - Time: 1075ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/main.ts:3:38 - error TS2307: Cannot find module '@ionic/pwa-elements/loader"' or its corresponding type declarations.
+[ng]
+[ng] 3 import { defineCustomElements } from '@ionic/pwa-elements/loader"
+[ng]                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng] Error: src/main.ts:3:66 - error TS1002: Unterminated string literal.
+[ng]
+[ng] 3 import { defineCustomElements } from '@ionic/pwa-elements/loader"
+[ng]
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:50:02.890Z - Hash: d1cbeddb44b9bea4 - Time: 452ms
+[ng]
+[ng] Error: src/main.ts:3:38 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import { defineCustomElements } from '@ionic/pwa-elements/loader'
+[ng]                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] main.js                        | main             | 14.52 kB |
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] common.js                      | common           | 49.99 kB |
+[ng] src_app_tabs_tabs_module_ts.js | tabs-tabs-module |  7.94 kB |
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.36 kB |
+[ng] src_app_tab3_tab3_module_ts.js | tab3-tab3-module |  7.36 kB |
+[ng] src_app_tab2_tab2_module_ts.js | tab2-tab2-module |  7.36 kB |
+[ng]
+[ng] 55 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:51:03.105Z - Hash: f97c87ba1a993366 - Time: 1329ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/main.ts:3:38 - error TS2307: Cannot find module '@ionic/pwa-elements/loader' or its corresponding type declarations.
+[ng]
+[ng] 3 import { defineCustomElements } from '@ionic/pwa-elements/loader'
+[ng]                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:51:10.376Z - Hash: 882400a0aebeacda - Time: 3140ms
+[ng]
+[ng] Error: src/main.ts:3:65 - error TS1002: Unterminated string literal.
+[ng]
+[ng] 3 import { defineCustomElements } from '@ionic/pwa-elements/loader
+[ng]
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:51:13.515Z - Hash: 285b2e029e328748 - Time: 681ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:51:14.882Z - Hash: 89b03af4ee7e8955 - Time: 742ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.52 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:51:44.320Z - Hash: c9d0ac54ae6827ab - Time: 1407ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 14.53 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 60 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:51:51.289Z - Hash: acca17461f42d7d4 - Time: 539ms
+[ng]
+[ng] Error: src/main.ts:15:1 - error TS2304: Cannot find name 'define'.
+[ng]
+[ng] 15 define
+[ng]    ~~~~~~
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files                                                            | Names                           |
+ Raw Size
+[ng] vendor.js                                                                      | vendor                          |
+  3.23 MB |
+[ng] main.js                                                                        | main                            |
+ 16.31 kB |
+[ng] runtime.js                                                                     | runtime                         |
+ 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files                                                               | Names                           |
+ Raw Size
+[ng] node_modules_ionic_pwa-elements_dist_esm_polyfills_core-js_js.js               | core-js-js                      | 129.32 kB |
+[ng] node_modules_ionic_pwa-elements_dist_esm_pwa-camera_entry_js.js                | -                               |
+ 32.06 kB |
+[ng] node_modules_ionic_pwa-elements_dist_esm_polyfills_dom_js.js                   | dom-js                          |
+ 27.16 kB |
+[ng] stencil-polyfills-dom.js                                                       | stencil-polyfills-dom           |
+ 26.54 kB |
+[ng] stencil-polyfills-css-shim.js                                                  | stencil-polyfills-css-shim      |
+ 19.97 kB |
+[ng] node_modules_ionic_pwa-elements_dist_esm_shadow-css-d7d058ec-d59cb009_js.js    | shadow-css-d7d058ec-d59cb009-js |
+ 14.68 kB |
+[ng] node_modules_ionic_pwa-elements_dist_esm_pwa-action-sheet_entry_js.js          | -                               |
+  4.10 kB |
+[ng] node_modules_ionic_pwa-elements_dist_esm_pwa-camera-modal-instance_entry_js.js | -                               |
+  3.90 kB |
+[ng] node_modules_ionic_pwa-elements_dist_esm_pwa-camera-modal_entry_js.js          | -                               |
+  3.64 kB |
+[ng] node_modules_ionic_pwa-elements_dist_esm_pwa-toast_entry_js.js                 | -                               |
+  2.66 kB |
+[ng]
+[ng] 59 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:51:56.920Z - Hash: 2d199be5a2a83d8f - Time: 3785ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 16.32 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:52:04.633Z - Hash: c262f386e29d2e7e - Time: 1008ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] main.js             | main    | 16.32 kB |
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:52:06.478Z - Hash: 4c47536e06404a3a - Time: 719ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] 72 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:52:43.258Z - Hash: 4c47536e06404a3a - Time: 1252ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.37 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:53:10.375Z - Hash: f1d285a1a2a010a0 - Time: 981ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.37 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:53:12.261Z - Hash: bf61f14d752e0fbb - Time: 817ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.37 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:53:15.132Z - Hash: 5d7cae4582d738f9 - Time: 628ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.37 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:53:18.076Z - Hash: 9857bb33864ff13d - Time: 987ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.65 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:53:41.138Z - Hash: b149c2f375d2780d - Time: 1046ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.65 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:53:44.468Z - Hash: bcd41079d80b8033 - Time: 1153ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.79 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:53:58.980Z - Hash: 173d379c5baffb30 - Time: 625ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.80 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:06.022Z - Hash: 1eca54cda8aa03d5 - Time: 894ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.80 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:08.082Z - Hash: 530bfc5f836e7927 - Time: 1186ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.80 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:12.120Z - Hash: 489db2e441ec9db3 - Time: 746ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.80 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:13.896Z - Hash: 3b5cb4805d75a912 - Time: 821ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.80 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:19.164Z - Hash: 05b3cf0cc80a44d5 - Time: 608ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.79 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:29.766Z - Hash: 6fda54d991bda8e2 - Time: 1026ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  5.47 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:31.523Z - Hash: bda4532b4cb92c50 - Time: 622ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:10:3 - error NG5002: Opening tag "ion" not terminated.
+[ng]
+[ng] 10   <ion
+[ng]      ~~~~
+[ng] 11 </ion-content>
+[ng]
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  5.47 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:34.930Z - Hash: e6e2181cd5c2d0c0 - Time: 401ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:10:3 - error NG5002: Opening tag "ion-fab" not terminated.
+[ng]
+[ng] 10   <ion-fab
+[ng]      ~~~~~~~~
+[ng] 11 </ion-content>
+[ng]
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 71 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:38.192Z - Hash: e2d28e641a39d756 - Time: 487ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:10:3 - error NG5002: Opening tag "ion-fab" not terminated.
+[ng]
+[ng] 10   <ion-fab<
+[ng]      ~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 71 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:39.169Z - Hash: 50652535dbdd4633 - Time: 414ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:10:3 - error NG5002: Opening tag "ion-fab" not terminated.
+[ng]
+[ng] 10   <ion-fab<}
+[ng]      ~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.85 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:43.300Z - Hash: b8d98163b6f567e5 - Time: 720ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.86 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:49.034Z - Hash: 47963bbae12e7d10 - Time: 594ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.87 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:54:54.994Z - Hash: ea963ba922f56d5f - Time: 633ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.85 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:02.612Z - Hash: a0fea42506576b2b - Time: 883ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.86 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:05.666Z - Hash: e96e1cd3eecdbe01 - Time: 744ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.87 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:09.831Z - Hash: dd18ece16df179e3 - Time: 569ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.88 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:17.986Z - Hash: 6193e6c16cd02a1d - Time: 695ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.85 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:32.606Z - Hash: b31cce919a30306e - Time: 888ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.88 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:34.233Z - Hash: 515b76642c2e515f - Time: 705ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.89 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:39.938Z - Hash: dbe26d1cda64224f - Time: 685ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.90 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:42.617Z - Hash: e96406fc8810e761 - Time: 745ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.91 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:49.742Z - Hash: c7ba0b191ebf3dd7 - Time: 912ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.92 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:53.000Z - Hash: fdf1db81c1510d13 - Time: 793ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.92 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:55:58.449Z - Hash: 486122ae943e0442 - Time: 670ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.93 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:56:05.968Z - Hash: 5f2aafcd718ad2e5 - Time: 670ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.94 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:56:11.602Z - Hash: 77dfbc02fec3740c - Time: 1059ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.94 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:56:14.102Z - Hash: dccd48ba93792be8 - Time: 875ms
+[ng] √ Compiled successfully.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  5.47 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:56:26.695Z - Hash: 4a89bdd4dff0b1ac - Time: 397ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG5002: Opening tag "ion-fab-bottom" not terminated.
+[ng]
+[ng] 11     <ion-fab-bottom
+[ng]        ~~~~~~~~~~~~~~~
+[ng] 12   </ion-fab>
+[ng]    ~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.94 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:56:30.098Z - Hash: 941e532db4072e33 - Time: 457ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  6.95 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:17.351Z - Hash: 3970285d4c7f5a22 - Time: 920ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  5.47 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:20.047Z - Hash: 34e880b660e39c3d - Time: 1059ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:12:7 - error NG5002: Opening tag "ionic-" not terminated.
+[ng]
+[ng] 12       <ionic-
+[ng]          ~~~~~~~
+[ng] 13     </ion-fab-bottom>
+[ng]    ~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 71 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:22.779Z - Hash: aed938e23aefbdb7 - Time: 490ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:12:7 - error NG5002: Opening tag "ion" not terminated.
+[ng]
+[ng] 12       <ion
+[ng]          ~~~~
+[ng] 13     </ion-fab-bottom>
+[ng]    ~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 71 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:24.143Z - Hash: 8cb6d241a088133a - Time: 541ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:12:7 - error NG5002: Opening tag "ion-" not terminated.
+[ng]
+[ng] 12       <ion-
+[ng]          ~~~~~
+[ng] 13     </ion-fab-bottom>
+[ng]    ~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.01 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:29.451Z - Hash: c60f5860033e31c8 - Time: 679ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.01 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:32.232Z - Hash: 404a89373293ab38 - Time: 503ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.02 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:39.388Z - Hash: b0a817d6f035afa7 - Time: 591ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.04 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:42.122Z - Hash: 3fb17a2c61ecbb2e - Time: 571ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  5.47 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:43.310Z - Hash: 4a2acfd876bfc695 - Time: 501ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:12:7 - error NG5002: Opening tag "ion-icon" not terminated.
+[ng]
+[ng] 12       <ion-icon name=""camara">
+[ng]          ~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:14:7 - error NG5002: Unexpected closing tag "ion-icon". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags
+[ng]
+[ng] 14       </ion-icon>
+[ng]          ~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.03 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T12:58:45.429Z - Hash: 7cc65abeea74edab - Time: 492ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.17 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T13:30:50.269Z - Hash: f810c494c48317c2 - Time: 1153ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] 72 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T13:30:52.389Z - Hash: f810c494c48317c2 - Time: 868ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.03 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T13:30:53.846Z - Hash: 1a757316188ae8a6 - Time: 635ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom>
+[ng]        ~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.05 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T13:32:27.848Z - Hash: 9f16e35b41a564e7 - Time: 1144ms
+[ng] × Failed to compile.
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom click>
+[ng]        ~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  7.03 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T13:32:29.804Z - Hash: b42042ad573c1585 - Time: 682ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom >
+[ng]        ~~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files            | Names            | Raw Size
+[ng] runtime.js                     | runtime          | 14.10 kB |
+[ng]
+[ng] Lazy Chunk Files               | Names            | Raw Size
+[ng] src_app_tab1_tab1_module_ts.js | tab1-tab1-module |  5.47 kB |
+[ng]
+[ng] 70 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T13:32:32.954Z - Hash: 0e114b7766eaa1de - Time: 1093ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom (click)>
+[ng]        ~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:21 - error NG5002: Empty expressions are not allowed
+[ng]
+[ng] 11     <ion-fab-bottom (click)>
+[ng]                        ~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
+[ng] √ Browser application bundle generation complete.
+[ng] Initial Chunk Files | Names   | Raw Size
+[ng] runtime.js          | runtime | 14.10 kB |
+[ng]
+[ng] 71 unchanged chunks
+[ng]
+[ng] Build at: 2023-05-15T13:32:37.040Z - Hash: e2634c3c86b2db54 - Time: 570ms
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:5 - error NG8001: 'ion-fab-bottom' is not a known element:
+[ng] 1. If 'ion-fab-bottom' is an Angular component, then verify that it is part of this module.
+[ng] 2. If 'ion-fab-bottom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.
+[ng]
+[ng] 11     <ion-fab-bottom (click)="">
+[ng]        ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng] Error: src/app/tab1/tab1.page.html:11:30 - error NG5002: Empty expressions are not allowed
+[ng]
+[ng] 11     <ion-fab-bottom (click)="">
+[ng]                                 ~
+[ng]
+[ng]   src/app/tab1/tab1.page.ts:5:16
+[ng]     5   templateUrl: 'tab1.page.html',
+[ng]                      ~~~~~~~~~~~~~~~~
+[ng]     Error occurs in the template of component Tab1Page.
+[ng]
+[ng]
+[ng]
+[ng] × Failed to compile.
